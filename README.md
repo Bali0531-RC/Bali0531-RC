@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bali0531-RC
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: Discord (@bali0531)
 
 <!---
