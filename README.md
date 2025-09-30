@@ -9,6 +9,7 @@
 
 - [Chorus](https://dc.chorus.hu)
 
+# Stats
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=17438&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
