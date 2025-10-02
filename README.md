@@ -7,7 +7,7 @@
 
 # Links
 
-- [Chorus](https://dc.chorus.hu)
+- [Chorus](https://discord.gg/chorus)
 
 # Stats
 
