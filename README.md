@@ -4,6 +4,7 @@
 - Backend and plugin developer
 - Experience with Discord bots and web-based projects
 - Working with JavaScript (Node.js), Python, and Linux systems
+- Uni Student, Currently doing CS BSc
 
 ## Projects
 - Chorus – game development, backend and server management
